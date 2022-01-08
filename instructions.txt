@@ -1,0 +1,8 @@
+1-Running the code on Visual studio
+I have create a console application,to run it just go to the run file and select run all the output will be shown on the console
+
+2-Running the code on VS Code
+if we are using vs code we need all the extensions,.NET framework installed and sniipets as well then we can write the program in the file and run it on the terminal uisng command dotnet run
+
+3-Test case
+i have added the MS test to the project and have also added the refernece the MS test is used to test the code and we have to use microsft UnitTest Framework
