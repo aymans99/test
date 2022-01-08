@@ -5,4 +5,4 @@ I have create a console application,to run it just go to the run file and select
 if we are using vs code we need all the extensions,.NET framework installed and sniipets as well then we can write the program in the file and run it on the terminal uisng command dotnet run
 
 3-Test case
-i have added the MS test to the project and have also added the refernece the MS test is used to test the code and we have to use microsft UnitTest Framework
+i have added the MS test to the project and have also added the refernece to the project,the MS test is used to test the code and we have to use microsft UnitTest Framework,when the code runs,the test runs as well and if its green means that test case have passed,if its red then it fails because the expected value is different and input value is different 
